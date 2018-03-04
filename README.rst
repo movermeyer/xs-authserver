@@ -19,10 +19,10 @@ authentication plugin.
 
 *PyPI status*
 
-.. image:: https://pypip.in/v/xs-authserver/badge.png
+.. image:: https://img.shields.io/pypi/v/xs-authserver.svg
     :target: https://crate.io/packages/xs-authserver/
 
-.. image:: https://pypip.in/d/xs-authserver/badge.png
+.. image:: https://img.shields.io/pypi/dm/xs-authserver.svg
     :target: https://crate.io/packages/xs-authserver/
 
 
